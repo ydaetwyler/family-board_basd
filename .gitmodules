@@ -1,0 +1,6 @@
+[submodule "familyboard-backend"]
+	path = familyboard-backend
+	url = git@github.com:ydaetwyler/familyboard-backend.git
+[submodule "familyboard-frontend"]
+	path = familyboard-frontend
+	url = git@github.com:ydaetwyler/familyboard-frontend.git

@@ -1,0 +1,7 @@
+build:
+  docker:
+    server: ./backend/Dockerfile
+    client: ./frontend/project-x/Dockerfile
+run:
+  server: npm i && npm build && run start:prod
+  client: npm i && npm start
