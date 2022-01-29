@@ -34,3 +34,9 @@
 ### Ready?
 #### docker-compose up -d
 ##### Happy codding :)
+
+### Logs
+#### You'll find logs in your DB
+#### & you can log with docker
+##### docker-compose logs -t -f server
+##### docker-compose logs -t -f client
