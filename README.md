@@ -5,7 +5,7 @@
 ##### family-board_base repo contains root files (docker-compose), backend and frontend are two separate repos because heroku needs two separate repos / two apps
 ### You can create a local (non-git) folder and only copy the docker-compose.yaml manually from here. Inside this folder, you can run:
 #### Backend
-##### git@github.com:ydaetwyler/familyboard-backend.git backend
+##### git clone git@github.com:ydaetwyler/familyboard-backend.git backend
 #### Frontend
 ##### git clone git@github.com:ydaetwyler/familyboard-frontend.git frontend/project-x
 
