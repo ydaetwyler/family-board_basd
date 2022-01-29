@@ -1,7 +1,7 @@
 # family-board
 
 ## Setup / File structure
-### family-board | family-board/backend | family-board/frontent/project-x
+### family-board | family-board/backend | family-board/frontend/project-x
 ##### family-board_base repo contains root files (docker-compose), backend and frontend are two separate repos because heroku needs two separate repos / two apps
 ### You can create a local (non-git) folder and only copy the docker-compose.yaml manually from here. Inside this folder, you can run:
 #### Backend
