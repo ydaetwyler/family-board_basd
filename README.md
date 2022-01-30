@@ -23,7 +23,6 @@
 ##### SECRET_KEY="" -> Secret for encryption
 ##### FRONT_BASE_URL="http://localhost:3000"
 ##### MAIL_PW="" -> Mail account pw (you may change the email sender in the code - ToDo: Email address env)
-##### PASSWORD="" -> Secret for encryption (must be 32 characters)
 
 ### Frontend env / local setup
 #### Path: frontend/project-x/.env.development.local
