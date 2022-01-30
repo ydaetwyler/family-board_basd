@@ -36,7 +36,7 @@
 ##### Happy codding :)
 
 ### Logs
-#### You'll find logs in your DB
+#### You'll find error logs in your DB
 #### & you can log with docker
 ##### docker-compose logs -t -f server
 ##### docker-compose logs -t -f client
